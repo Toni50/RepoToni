@@ -1,0 +1,1 @@
+Place the game in the same folder with the "resources" folder
